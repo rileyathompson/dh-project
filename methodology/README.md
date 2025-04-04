@@ -35,4 +35,4 @@ I attempted to identify societal values from the list of topics. I did so by loo
 
 ### Sources
 
-Gillings, Mathew, and Andrew Hardie. June 2023. “The interpretation of topic models for scholarly analysis: An evaluation and critique of current practice.” *Digital Scholarship in the Humanities* 38 (2): 530–543. https://doiorg.ezproxy.neu.edu/10.10 93/llc/fqac075.
+Gillings, Mathew, and Andrew Hardie. June 2023. “The interpretation of topic models for scholarly analysis: An evaluation and critique of current practice.” *Digital Scholarship in the Humanities* 38 (2): 530–543. https://doiorg.ezproxy.neu.edu/10.1093/llc/fqac075.

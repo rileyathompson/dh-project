@@ -1,6 +1,6 @@
 # Project Overview
 
-This project utilizes topic modeling to examine a corpus of ten travel writings from early American written by white women.
+This project investigates societal values in early American women’s travel writing and the possible influence the American Revolution had on societal values using the topic modeling tool MALLET. The project corpus is composed of ten travel writings, which include travel narratives, diary entries, and letters, written by white women between the years of 1704 and 1810. With of the five travel writings written before the American Revolution began and five written after the end of the Revolution, this project investigates whether or not the American Revolution influenced what societal values are reflected in women’s travel writing in early America.
 
 ## Project Questions
 

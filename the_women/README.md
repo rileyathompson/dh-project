@@ -314,4 +314,6 @@ Library of Congress. n.d. “Timeline.” Margaret Bayard Smith Papers. Accessed
 
 Sansom, Hannah Callender. 2010. *The Diary of Hannah Callender Sansom: Sense and Sensibility in the Age of the American Revolution.* eds. Susan E. Klepp and Karin A. Wulf. Cornell University Press.
 
+Trist, Elizabeth House. 2024. *The Travel Journal of Eliza House Trist.* Intro. Karen A. Chase. University of Virginia.
+
 Van Horn Dwight Bell, Margaret. 1912. *A Journey to Ohio in 1810: As Recorded in the Journal of Margaret Van Horn Dwight.* ed. Max Farrand. Yale University Press. https://search-alexanderstreet-com.ezproxy.neu.edu/view/work/bibliographic_entity|bibliographic_details|4271646.

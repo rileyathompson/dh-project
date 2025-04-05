@@ -1,0 +1,8 @@
+0	0.625	lodge horse hill company dine breakfast bed meeting chair evening 
+1	0.625	country good journey manner stage shore beauty prospect money creature 
+2	0.625	house river walk guide night church pretty tree travel room 
+3	0.625	child company cross man daughter home god family merchant doctor 
+4	0.625	town ride meet good indian land agreeable rest boston lodge 
+5	0.625	newyork night good wind gentleman wait hope father governor home 
+6	0.625	house desire tea poor drink dinner road ferry sister table 
+7	0.625	woman people bridge boat entertain philadelphia fellow passenger civil fear 

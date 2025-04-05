@@ -1,0 +1,10 @@
+0	0.5	house pretty good road land agreeable beauty stone island shore 
+1	0.5	newyork night ferry wind hope journey wait cross home god 
+2	0.5	house walk town ride hill dine breakfast meeting tea lodge 
+3	0.5	good town people meet gentleman woman friend house boston civil 
+4	0.5	manner desire man rest daughter wife father good end family 
+5	0.5	travel country tree church stage mind prospect building distance passenger 
+6	0.5	child bed boat governor meet sleep sight cold woman clean 
+7	0.5	horse ride night lodge poor guide water bridge river fear 
+8	0.5	company chair relation fall man sailor brother speak table steal 
+9	0.5	indian money merchant year serve age piece bare english suppose 

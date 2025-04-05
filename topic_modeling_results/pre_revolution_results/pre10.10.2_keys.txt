@@ -1,0 +1,7 @@
+0	0.71429	good newyork country road people hill company land church drink 
+1	0.71429	woman home company man river relation stage passenger civil brother 
+2	0.71429	house town lodge ride walk dine breakfast ferry tea dinner 
+3	0.71429	night horse meet travel desire hope manner gentleman bridge rest 
+4	0.71429	bed room friend distance philadelphia money thought speak meeting creature 
+5	0.71429	pretty tree guide water stop shore mind fear fellow door 
+6	0.71429	child poor indian man chair fall merchant life deal answer 

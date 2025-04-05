@@ -1,0 +1,6 @@
+0	0.83333	indian chair relation fall cross father people distance thought family 
+1	0.83333	town house poor travel hope rest entertain boston people fear 
+2	0.83333	ride house walk country road hill dine breakfast tree meeting 
+3	0.83333	night meet home church wind horse gentleman bridge god daughter 
+4	0.83333	newyork child pretty company ferry bed wait son friend sleep 
+5	0.83333	good lodge man river woman land journey boat wife shore 

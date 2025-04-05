@@ -1,0 +1,10 @@
+0	0.5	ride horse hill child meet road drink sister 
+1	0.5	good house night town travel newyork meeting church 
+2	0.5	pretty river stage land lodge passage plain observe 
+3	0.5	tree house chair dinner agreeable room stop lodge 
+4	0.5	walk poor dine tea country indian relation beauty 
+5	0.5	man desire water bridge town rest entertain people 
+6	0.5	god safe weary country word road mind sail 
+7	0.5	father governor doctor year suppose open colony plentiful 
+8	0.5	home lodge breakfast gentleman evening newyork woman guide 
+9	0.5	company wind wait fall meet sleep woman table 

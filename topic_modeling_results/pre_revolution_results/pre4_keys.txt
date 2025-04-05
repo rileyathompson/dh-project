@@ -1,0 +1,8 @@
+0	0.625	town house river good pretty tree small wind 
+1	0.625	meet arrive breakfast desire son dinner indian daughter 
+2	0.625	road walk land gentleman large room father stone 
+3	0.625	ride night day lodge horse people great guide 
+4	0.625	woman house afternoon company man live journey shore 
+5	0.625	home child meeting long return chair great dine 
+6	0.625	country pay manner company tea great god tavern 
+7	0.625	newyork good leave hard bed water bridge fall 

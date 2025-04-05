@@ -1,0 +1,10 @@
+0	0.5	good land town church shore tavern hope newhaven sailor eat 
+1	0.5	horse company travel boston country end safe mind tree host 
+2	0.5	ferry cross wait meet river sleep fear fellow money minister 
+3	0.5	house desire good son journey woman god door civil rest 
+4	0.5	lodge road river dinner stage meeting beauty wood table passage 
+5	0.5	house town walk tea drink country relation stone building distance 
+6	0.5	night people bed entertain bad plain clean sail merchant answer 
+7	0.5	ride hill manner meet company poor gentleman father evening prospect 
+8	0.5	newyork home child dine breakfast hour woman lodge begin doctor 
+9	0.5	guide man wind pretty boat concern word ill sabbath spend 

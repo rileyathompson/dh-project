@@ -1,0 +1,5 @@
+0	1	lodge day leave meet live road home hill night dine 
+1	1	house lay pretty stand turn travel large church bridge full 
+2	1	ride man horse john arrive guide ferry house tree meeting 
+3	1	good town clock fine newyork time walk river company afternoon 
+4	1	great pay woman child kind hard call give manner young 

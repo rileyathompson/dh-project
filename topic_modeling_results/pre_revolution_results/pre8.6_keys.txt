@@ -1,0 +1,10 @@
+0	0.5	house town ride good river tea guide drink road stone 
+1	0.5	poor horse indian bridge exceed complain manner master piece fire 
+2	0.5	country land hope church governor beauty island prospect boat end 
+3	0.5	people home lodge travel philadelphia fear fellow stage concern care 
+4	0.5	night child pretty ferry wind god manner sight safe weary 
+5	0.5	company ride water horse stop shore mind passenger thought sailor 
+6	0.5	good newyork meeting gentleman friend money speak daughter walk merchant 
+7	0.5	man meet journey boston relation company door fall word begin 
+8	0.5	woman bed tree chair wood table men late father open 
+9	0.5	lodge dine breakfast hill walk desire son dinner evening road 

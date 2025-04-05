@@ -1,0 +1,7 @@
+0	0.71429	company lodge good home hill people newyork breakfast meeting chair 
+1	0.71429	river poor bed tree land manner bridge prospect fear end 
+2	0.71429	man child desire indian room father governor door sight cold 
+3	0.71429	house town walk pretty dine country drink dinner church stone 
+4	0.71429	night ride horse town guide tea journey travel rest daughter 
+5	0.71429	good hope son gentleman wait meet god cross friend newyork 
+6	0.71429	ride meet relation agreeable boat entertain beauty mind stage building 

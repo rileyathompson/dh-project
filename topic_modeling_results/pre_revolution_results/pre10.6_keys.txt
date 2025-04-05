@@ -1,0 +1,8 @@
+0	0.625	man river poor wind company country island mind prospect table 
+1	0.625	night good lodge guide manner indian journey rest gentleman town 
+2	0.625	ride road hill tea church drink entertain house stone building 
+3	0.625	house town good walk company woman people home dine lodge 
+4	0.625	travel meet night boston hope father passage fear shore creature 
+5	0.625	horse bridge boat country tavern fellow sailor answer sloop world 
+6	0.625	child agreeable god money sight cross cold life men lord 
+7	0.625	newyork ferry bed tree breakfast land pretty water stage wood 

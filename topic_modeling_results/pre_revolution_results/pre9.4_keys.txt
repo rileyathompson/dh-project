@@ -1,0 +1,8 @@
+0	0.625	woman bed room governor sleep family clean table fare civil 
+1	0.625	river country poor travel tree church bridge mind building distance 
+2	0.625	house good walk town dine breakfast hill meeting tea ride 
+3	0.625	stage shore money merchant creature door answer pretty late divert 
+4	0.625	good newyork town people ferry gentleman boston wait friend meet 
+5	0.625	man desire indian company chair relation daughter manner fall father 
+6	0.625	child wind hope home son god boat land sight passenger 
+7	0.625	night ride lodge horse company guide meet journey rest entertain 

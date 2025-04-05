@@ -1,0 +1,10 @@
+0	0.5	house walk road night desire wind cross chair 
+1	0.5	river guide night town building civil merchant sight 
+2	0.5	man people bridge meet travel rest indian entertain 
+3	0.5	town god manner wait safe passage dinner host 
+4	0.5	town water church stop beauty agreeable thought country 
+5	0.5	ride good dine meeting son gentleman tavern money 
+6	0.5	newyork company fall clean brother stone creature sloop 
+7	0.5	child ride breakfast drink company house wife door 
+8	0.5	woman horse hill pretty relation boat father passenger 
+9	0.5	lodge home good bed journey poor meet evening 

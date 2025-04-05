@@ -1,0 +1,7 @@
+0	0.71429	horse woman hill gentleman poor bridge 
+1	0.71429	house walk good road people tea 
+2	0.71429	man child desire indian bed room 
+3	0.71429	manner hope daughter money door short 
+4	0.71429	company good newyork home breakfast ferry 
+5	0.71429	ride town lodge river pretty guide 
+6	0.71429	night meet travel boston stage father 

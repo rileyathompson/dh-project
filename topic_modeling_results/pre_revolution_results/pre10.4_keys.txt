@@ -1,0 +1,8 @@
+0	0.625	chair tree stage shore fear table thought eat manner guide 
+1	0.625	man bed wait daughter fall father manner clean creature glad 
+2	0.625	house ride walk road hill woman dine breakfast tea drink 
+3	0.625	good lodge newyork night country people poor river town land 
+4	0.625	home desire meeting journey stop distance sister speak boston host 
+5	0.625	horse company child ferry wind rest room wife night fellow 
+6	0.625	meet indian bridge relation entertain money family plain merchant newhaven 
+7	0.625	town house good church son gentleman water agreeable guide beauty 

@@ -1,0 +1,8 @@
+0	0.625	poor bed indian rest boat end short sailor mother surprise 
+1	0.625	house town walk travel wait pretty country tavern prospect building 
+2	0.625	night manner desire wind father door cold creature late sail 
+3	0.625	horse guide tea journey chair relation wife dinner table bad 
+4	0.625	newyork dine breakfast meeting son stage sleep mind distance philadelphia 
+5	0.625	company good lodge man home church hill gentleman agreeable evening 
+6	0.625	ride good house road drink bridge daughter land stop town 
+7	0.625	river meet woman child ferry people cross water lodge god 

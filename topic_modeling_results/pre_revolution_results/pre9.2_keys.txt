@@ -1,0 +1,10 @@
+0	0.5	good house ride meet road land country wind governor lodge 
+1	0.5	journey wait meet island fear ferry eat company creek glad 
+2	0.5	newyork man child god stop philadelphia door speak word sail 
+3	0.5	lodge chair rest indian bed relation shore wood country sloop 
+4	0.5	dine woman room sleep sister family good newhaven breakfast dutch 
+5	0.5	night horse river town evening tree entertain guide lodge passage 
+6	0.5	ride town meeting hill dinner stage prospect house passenger bad 
+7	0.5	travel church pretty water town fall mind manner bridge safe 
+8	0.5	poor people desire cross boat end money plain merchant sailor 
+9	0.5	company walk home drink son tea stone doctor diverse round 

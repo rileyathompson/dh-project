@@ -1,0 +1,8 @@
+0	0.625	ride child tree lodge home bridge stop fear sight bad 
+1	0.625	lodge breakfast bed man dinner daughter wife stage indian governor 
+2	0.625	town house walk meet road dine tea land drink water 
+3	0.625	company relation beauty son money plain home sailor creek deal 
+4	0.625	horse poor travel river wind pretty ride rest entertain town 
+5	0.625	guide desire boat hope journey friend night mind merchant father 
+6	0.625	good night hill newyork meeting chair woman gentleman people shore 
+7	0.625	house manner country good church wait agreeable man room fall 

@@ -1,0 +1,7 @@
+0	0.71429	child poor hard meet hear safe civil word doctor father 
+1	0.71429	house town walk road dine desire tea church drink dinner 
+2	0.71429	newyork woman pretty country hill great house governor sleep building 
+3	0.71429	man town manner indian bed journey room fall young door 
+4	0.71429	ride river pay guide tree water relation entertain small lodge 
+5	0.71429	good great company gentleman rest chair home friend receive bridge 
+6	0.71429	night lodge horse travel breakfast ferry wind hope cross son 

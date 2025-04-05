@@ -1,0 +1,10 @@
+0	0.5	night child god wood safe cold weary creature wait doctor 
+1	0.5	horse ride guide travel river journey water bridge entertain country 
+2	0.5	ride lodge company road hill dine breakfast meeting tea drink 
+3	0.5	pretty tree country room governor fear fellow bed door sight 
+4	0.5	good night meet people lodge town cross boston gentleman woman 
+5	0.5	poor desire end rest word host daughter glad surprise mother 
+6	0.5	house town good church walk agreeable beauty stone island land 
+7	0.5	man indian manner father speak relation brother marry lady steal 
+8	0.5	money table woman merchant answer suppose serve bare english colony 
+9	0.5	newyork home wind hope boat ferry mind son philadelphia passenger 

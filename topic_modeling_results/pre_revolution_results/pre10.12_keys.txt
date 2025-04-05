@@ -1,0 +1,7 @@
+0	0.71429	company ride hill home road desire church drink 
+1	0.71429	house town lodge walk people breakfast dine evening 
+2	0.71429	newyork man meeting indian son gentleman country relation 
+3	0.71429	poor bed fall stage shore end creature pretty 
+4	0.71429	horse ride travel guide tree water bridge stop 
+5	0.71429	manner child wind hope wait god boston boat 
+6	0.71429	good night river woman meet cross ferry entertain 

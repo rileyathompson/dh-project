@@ -1,0 +1,10 @@
+0	0.5	wind boat show shore land passenger great sailor men run 
+1	0.5	river poor night hard water bridge travel hear fear fellow 
+2	0.5	house good town great people large church chair relation receive 
+3	0.5	woman bed lodge room leave governor sleep plain clean suppose 
+4	0.5	day ride horse lodge company meet guide arrive return journey 
+5	0.5	pay child great god night hope money home order short 
+6	0.5	newyork good leave ferry long company small cross gentleman wait 
+7	0.5	man young desire live manner daughter father indian fall door 
+8	0.5	walk house town hill afternoon dine breakfast ride meeting tea 
+9	0.5	country pretty end word answer world care surprise marry serve 

@@ -1,0 +1,10 @@
+0	0.5	ride house company walk hill lodge dine breakfast 
+1	0.5	poor man travel night bridge wife passage weary 
+2	0.5	desire indian chair relation father company man end 
+3	0.5	good town house people gentleman river woman governor 
+4	0.5	horse lodge guide meet journey wait rest boston 
+5	0.5	child night wind son hope god cold cross 
+6	0.5	money merchant glad answer daughter suppose serve word 
+7	0.5	tree country river ride shore prospect distance thought 
+8	0.5	newyork ferry land boat stone road island country 
+9	0.5	bed room sleep woman door family clean pretty 

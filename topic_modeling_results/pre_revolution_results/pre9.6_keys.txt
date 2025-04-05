@@ -1,0 +1,8 @@
+0	0.625	country good house dine meeting tea church drink chair son 
+1	0.625	man poor desire wind gentleman horse good company father wood 
+2	0.625	town house walk night breakfast road dinner horse evening wife 
+3	0.625	newyork manner journey wait daughter mind passage host minister travel 
+4	0.625	ride lodge meet river guide ferry hill company cross pretty 
+5	0.625	good woman land friend beauty island table sight rest short 
+6	0.625	night home child bed hope god boat fall distance street 
+7	0.625	people tree water bridge agreeable relation boston room stage indian 

@@ -1,0 +1,7 @@
+0	0.71429	man good gentleman wait daughter boston boat fall indian 
+1	0.71429	ride road hill pretty lodge desire bed dinner dine 
+2	0.71429	company horse meet poor river guide ferry wind cross 
+3	0.71429	night child god father door sailor doctor life glad 
+4	0.71429	good newyork house home travel breakfast meeting tea drink 
+5	0.71429	house people manner tree country chair relation room wife 
+6	0.71429	town walk lodge woman church agreeable entertain governor sleep 

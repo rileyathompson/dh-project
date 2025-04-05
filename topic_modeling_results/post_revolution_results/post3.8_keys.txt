@@ -1,0 +1,8 @@
+0	0.625	house town stone ride build imagine inquire elegant drink building 
+1	0.625	bed room wife man woman sleep suppose talk word dutch 
+2	0.625	road today cross mountain hill wait house pretty rain company 
+3	0.625	good journey people child gentleman family house difficult end happy 
+4	0.625	oblige night walk horse good wagon ride stop tavern reach 
+5	0.625	good beauty country men land poor breakfast fort situation rise 
+6	0.625	write feel father home dear week life mother attention moment 
+7	0.625	river boat night shore water bank wind indian fast island 

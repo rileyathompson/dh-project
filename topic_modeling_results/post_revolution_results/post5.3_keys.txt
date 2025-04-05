@@ -1,0 +1,6 @@
+0	0.83333	house ride horse walk road man night wagon tavern stop 
+1	0.83333	river boat night shore water people fast run home wind 
+2	0.83333	rain feel reach town family good bed night deal dutch 
+3	0.83333	good journey woman wife gentleman town difficult end weather men 
+4	0.83333	mountain room bed cross hill country sleep creek wagoner land 
+5	0.83333	write beauty feel dear bank father stone breakfast island friend 

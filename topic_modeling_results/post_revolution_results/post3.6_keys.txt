@@ -1,0 +1,10 @@
+0	0.5	house cross people man men wait dutch country creature yesterday 
+1	0.5	bed good night room oblige wife woman sleep rain breakfast 
+2	0.5	road ride journey horse bad meet word week today cold 
+3	0.5	write home dear mother attention favor hope read letter opportunity 
+4	0.5	feel gentleman suppose life love girl delight moment prospect woman 
+5	0.5	river boat shore water island people poor fast inform dark 
+6	0.5	town ohio state child travel rise family son fort salem 
+7	0.5	good creek land log snow noon mountain warm evening drink 
+8	0.5	walk mountain tavern wagon stop oblige house horse wagoner expect 
+9	0.5	night country bank wind clear beauty hill indian continue pretty 

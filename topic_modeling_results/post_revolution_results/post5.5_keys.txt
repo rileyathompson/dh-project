@@ -1,0 +1,6 @@
+0	0.83333	hill talk scarce week meet fear read direct 
+1	0.83333	night country men land reach wait poor house 
+2	0.83333	river boat shore water creek beauty fast people 
+3	0.83333	good house ride mountain horse walk cross wagon 
+4	0.83333	road man journey people bad home hope end 
+5	0.83333	bed feel write room woman good sleep father 

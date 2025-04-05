@@ -1,0 +1,10 @@
+0	0.5	good men people poor hope breakfast end happy child year 
+1	0.5	gentleman woman house son delight party springs beauty marry newyork 
+2	0.5	house stone oblige night dutch dirty build inquire meet town 
+3	0.5	river boat night shore water wind people run evening rain 
+4	0.5	man wagon tavern wife oblige wagoner company talk trouble state 
+5	0.5	bed room night sleep woman good house comfortable don feel 
+6	0.5	word lady suppose girl length continue speak fellow money strange 
+7	0.5	mountain horse road walk ride today cross good stop bad 
+8	0.5	town creek pretty river country hill bank feet clear fort 
+9	0.5	write feel father home dear week mother journey love friend 

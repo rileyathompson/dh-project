@@ -1,0 +1,8 @@
+0	0.625	good bed river house mountain country town gentleman room difficult 
+1	0.625	house oblige sleep fast dirty moment child room lady town 
+2	0.625	ride wait night wagon week horse stop oblige mountain snow 
+3	0.625	night today beauty reach ohio read mother hope cold dress 
+4	0.625	cross woman man horse tavern journey creek talk evening hill 
+5	0.625	walk expect good bad road people country suppose pittsburgh journey 
+6	0.625	write feel shore father home dear friend love letter company 
+7	0.625	water boat men indian fort island hill rain yesterday poor 

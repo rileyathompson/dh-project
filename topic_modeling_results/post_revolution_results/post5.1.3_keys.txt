@@ -1,0 +1,6 @@
+0	0.83333	woman rain child dear father family week lady mother year 
+1	0.83333	night bed write room feel sleep journey dirty moment comfortable 
+2	0.83333	river boat shore night water people creek beauty land run 
+3	0.83333	good man town tavern wait wife bad poor scarce men 
+4	0.83333	house mountain horse road walk ride cross hill good pretty 
+5	0.83333	expect wagon wagoner country company hope talk people life dutch 

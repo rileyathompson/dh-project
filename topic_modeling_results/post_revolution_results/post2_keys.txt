@@ -1,0 +1,10 @@
+0	0.5	good journey meet cold breakfast run difficult pittsburgh end weather 
+1	0.5	ride mountain horse road walk stop cross expect bad oblige 
+2	0.5	beauty land hill rain clear feet fort pretty evening continue 
+3	0.5	write feel home father journey happy dear mother love letter 
+4	0.5	woman good child gentleman poor lady family son husband men 
+5	0.5	river night boat shore water wind indian number island oblige 
+6	0.5	people feel life girl warm speak wait daughter conclude round 
+7	0.5	man good wife wagon wagoner company word suppose today tavern 
+8	0.5	bed night room house sleep oblige dirty comfortable scarce creature 
+9	0.5	house town stone country dutch build dress elegant inquire wagon 

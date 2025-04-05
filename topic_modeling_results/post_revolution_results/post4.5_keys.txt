@@ -1,0 +1,8 @@
+0	0.625	man journey expect woman people father company word week year 
+1	0.625	mountain road stop difficult ohio people cross island distance river 
+2	0.625	good walk house town ride wagon hill tavern country cross 
+3	0.625	write suppose home life moment friend love girl letter springs 
+4	0.625	bed room boat water sleep pretty run wind creek wait 
+5	0.625	feel dear mother opportunity son family brother spirit country journal 
+6	0.625	house beauty night wagoner talk cold trouble direct ride rise 
+7	0.625	night river good horse shore rain fast rest comfortable pittsburgh 

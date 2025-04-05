@@ -1,0 +1,8 @@
+0	0.625	mountain road hill rain people water today beauty stop cold 
+1	0.625	write ride father home night journey family mother snow friend 
+2	0.625	good horse walk expect journey company ride rest word gentleman 
+3	0.625	bed room feel sleep hope dear life moment people happy 
+4	0.625	house town cross oblige tavern child reach meet stone dirty 
+5	0.625	man wife wagon wagoner woman poor talk dutch wait fear 
+6	0.625	country land river bank week breakfast island fort year direct 
+7	0.625	night river boat shore oblige fast wind clear good continue 

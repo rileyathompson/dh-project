@@ -1,4 +1,4 @@
-# Post-Revolution Results
+# Post-Revolution Topic Modeling Results
 
 Below is a guide for the specification I fed into MALLET and their coordinating file name.
 

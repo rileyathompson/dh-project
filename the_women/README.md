@@ -306,7 +306,7 @@ Hildreth, S. P., R.J. Meigs. 1852. “Benjamin Ives Gilman and Mrs. Hannah Gilma
 
 Karlsen, Carol F., and Laurie Crumpacker, eds. 1984. “Introduction.” In *Journal of Esther Edwards Burr 1754-1757.* Yale University Press. https://doi.org/10.2307/j.ctt211qvqr.6.
 
-Knight, Sarah Kemble. *Journal of Madam Knight.* ed. Malcolm Freiberg. Wilder & Campbell. https://search-alexanderstreet-com.ezproxy.neu.edu/view/work/bibliographic_entity|bibliographic_details|4356387.
+Knight, Sarah Kemble. 1825. *Journal of Madam Knight.* ed. Malcolm Freiberg. Wilder & Campbell. https://search-alexanderstreet-com.ezproxy.neu.edu/view/work/bibliographic_entity|bibliographic_details|4356387.
 
 Knight, Sarah Kemble. 1865. *The private journal of a journey from Boston to New York in the year 1704.* ed. William Law Learned. F. H. Little.
 

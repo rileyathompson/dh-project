@@ -10,7 +10,7 @@ Eve, Sarah. 1881. *Extracts from the Journal of Miss Sarah Eve: Written while Li
 
 Gilman, Rebecca Ives. 1919. *A Family History in Letters and Documents.* Privately Published. https://search-alexanderstreet-com.ezproxy.neu.edu/view/work/bibliographic_entity|bibliographic_details|4361839.
 
-Knight, Sarah Kemble. 1825 *Journal of Madam Knight.* ed. Malcolm Freiberg. Wilder & Campbell. https://search-alexanderstreet-com.ezproxy.neu.edu/view/work/bibliographic_entity|bibliographic_details|4356387.
+Knight, Sarah Kemble. 1825. *Journal of Madam Knight.* ed. Malcolm Freiberg. Wilder & Campbell. https://search-alexanderstreet-com.ezproxy.neu.edu/view/work/bibliographic_entity|bibliographic_details|4356387.
 
 McCallum, Andrew Kachites.  "MALLET: A Machine Learning for Language Toolkit." http://mallet.cs.umass.edu. 2002.
 
